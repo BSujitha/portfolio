@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+/* Main heading */
+h1 {
+    text-align: center;
+    color: #0066cc;
+}
+
+/* Tagline */
+p:first-of-type {
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+/* Section headings */
+h2 {
+    color: #004080;
+    margin-top: 30px;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+}
+
+/* Paragraphs */
+p {
+    line-height: 1.6;
+}
+
+/* Lists */
+ul, ol {
+    margin-left: 40px;
+}
+
+li {
+    margin-bottom: 8px;
+}
